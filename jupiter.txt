@@ -1,2 +1,4 @@
 largest planet
 has a big red spot
+is not saturn
+has lots of moons
